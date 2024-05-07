@@ -80,6 +80,7 @@ function checkAnswer(selectedAnswerIndex) {
     if (currentQuestionIndex < questionsData.length) {
         loadQuestion();
     } else {
+        scoreElement.textContent = `Điểm: ${score}`;
         alert('Bạn đã hoàn thành bài thi! Điểm của bạn là: ' + score);
     }
 }
