@@ -1,0 +1,302 @@
+[
+    {
+      "question": "Câu 1: Tác giả của câu nói dưới đây là ai?\nTôi muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá kình biển khơi, đánh đuổi quân Ngô giành lại giang sơn, cởi ách nô lệ, đâu chịu khom lưng làm tì thiếp cho người",
+      "answers": [
+        "A.  Trưng Trắc",
+        "B.  Triệu Thị Trinh",
+        "C.  Trưng Nhị",
+        "D.  Lê Chân"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Câu 2: Sau khi lên ngôi Hoàng đế, Lý Bí đặt tên nước là gì?",
+      "answers": [
+        "A.  Đại Cồ Việt",
+        "B.  Đại Ngu",
+        "C.  Đại Việt",
+        "D.  Vạn Xuân"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Câu 3: Lý Bí phất cờ khởi nghĩa vào mùa xuân năm nào?",
+      "answers": [
+        "A.  Năm 542",
+        "B.  Năm 543",
+        "C.  Năm 544",
+        "D.  Năm 545"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "question": "Câu 4: Năm 40, khởi nghĩa Hai Bà Trưng nổ ra ở đâu?",
+      "answers": [
+        "A.  Mê Linh (Vĩnh Phúc)",
+        "B.  Cổ Loa (Đông Anh – Hà Nội)",
+        "C.  Luy Lâu (Bắc Ninh)",
+        "D.  Hát Môn (Phúc Thọ - Hà Nội)"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Câu 5: Năm 713, Mai Thúc Loan dựng cờ khởi nghĩa, chống lại ách cai trị của nhà…",
+      "answers": [
+        "A.  Lương",
+        "B.  Hán",
+        "C.  Ngô",
+        "D.  Đường"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Câu 6: Anh hùng dân tộc nào được nhân dân suy tôn là Bố Cái đại vương?",
+      "answers": [
+        "A.  Mai Thúc Loan",
+        "B.  Triệu Quang Phục",
+        "C.  Phùng Hưng",
+        "D.  Lý Bí"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Câu 7: Sau khi lên nắm chính quyền, Khúc Hạo đã",
+      "answers": [
+        "A. tiến hành nhiều cải cách tiến bộ",
+        "B.   duy trì chính sách bóc lột của nhà Đường",
+        "C.  áp dụng luật pháp hà khắc",
+        "D.  chia ruộng đất cho dân nghèo"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "question": "Câu 8: Năm 905, nhân cơ hội nhà Đường suy yếu, Khúc Thừa Dụ đã",
+      "answers": [
+        "A.  đánh chiếm thành Đại La, tự xưng là Tiết độ sứ, xây dựng chính quyền tự chủ",
+        "B.  nổi dậy khởi nghĩa, thi hành nhiều chính sách tiến bộ",
+        "C.  nổi dậy khởi nghĩa, lên ngôi Hoàng đế, lập ra nước Vạn Xuân",
+        "D.  đánh chiếm Tống Bình, lên ngôi Hoàng đế, chấm dứt thời Bắc thuộc"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "question": "Câu 9: Dương Đình Nghệ chống quân Nam Hán vào năm nào?",
+      "answers": [
+        "A.  Năm 905",
+        "B.  Năm 907",
+        "C.  Năm 931",
+        "D.  Năm 938"
+      ],
+      "correctAnswer": "2"
+    },     
+    {
+        "question": "Câu 10: Sau khi đánh tan quân Nam Hán, Dương Đình Nghệ đã",
+        "answers": [
+          "A.  tự xưng là Tiết độ sứ, khôi phục nền tự chủ",
+          "B.  lên ngôi hoàng đế, lập ra nhà nước Vạn Xuân",
+          "C.  lên ngôi hoàng đế, tiến hành cải cách đất nước",
+          "D.  tiến hành cải cách đất nước"
+        ],
+        "correctAnswer": "0"
+      },
+      {
+        "question": "Câu 11: Hoạt động kinh tế chính của cư dân Champa là",
+        "answers": [
+          "A.  thủ công nghiệp",
+          "B.  nông nghiệp trồng lúa nước",
+          "C.  thương nghiệp",
+          "D.  mậu dịch hàng hải"
+        ],
+        "correctAnswer": "1"
+      },
+      {
+        "question": "Câu 12: Sản vật nổi tiếng nhất của vương quốc Cham-pa là",
+        "answers": [
+          "A.  vàng",
+          "B.  ngà voi",
+          "C.  nhung hươu",
+          "D.  trầm hương"
+        ],
+        "correctAnswer": "3"
+      },
+      {
+        "question": "Câu 13: Tầng lớp nào chiếm phần lớn trong xã hội Chăm -pa?",
+        "answers": [
+          "A.  Vua",
+          "B.  Quý tộc",
+          "C.  Tu sĩ Bà-La-Môn",
+          "D.  Thường dân"
+        ],
+        "correctAnswer": "3"
+      },
+      {
+        "question": "Câu 14: Năm 192, Khu Liên lên ngôi vua đã đặt tên nước là gì?",
+        "answers": [
+          "A.  Văn Lang",
+          "B.  Chân Lạp",
+          "C.  Lâm Ấp",
+          "D.  Phù Nam"
+        ],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "Câu 15: Trong xã hội Chăm-pa, người nào có quyền lực cao nhất?",
+        "answers": [
+          "A.  Vua",
+          "B.  Quý tộc",
+          "C.  Tu sĩ Bà-La-Môn",
+          "D.  Thường dân"
+        ],
+        "correctAnswer": "0"
+      },
+      {
+        "question": "Câu 16: Những dòng chảy nhỏ thoát nước cho sông chính gọi là",
+        "answers": [
+          "A.  chi lưu",
+          "B.  phụ lưu",
+          "C.  lưu vực sông",
+          "D.  cửa sông"
+        ],
+        "correctAnswer": "0"
+      },
+      {
+        "question": "Câu 17: Phụ lưu là gì?",
+        "answers": [
+          "A.  Các con sông làm nhiệm vụ thoát nước cho sông chính",
+          "B.  Các con sông đổ nước vào con sông chính",
+          "C.  Diện tích đất đai cung cấp nước thường xuyên cho sông",
+          "D.  Lượng nước chảy tạo ra mặt cắt ngang lòng ở con sông"
+        ],
+        "correctAnswer": "1"
+      },
+      {
+        "question": "Câu 18: Nơi tiếp giáp với biển gọi là",
+        "answers": [
+          "A.  phụ lưu",
+          "B.  chi lưu",
+          "C.  cửa sông",
+          "D.  lưu vực sông"
+        ],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "Câu 19: Lưu vực của một con sông là",
+        "answers": [
+          "A.  vùng đất đai đầu nguồn của các con sông nhỏ",
+          "B.  diện tích đất đai cung cấp nước thường xuyên cho con sông",
+          "C.  chiều dài từ thượng nguồn đến các cửa sông",
+          "D.  lượng nước chảy tạo ra mặt cắt ngang lòng sông"
+        ],
+        "correctAnswer": "1"
+      },
+      {
+        "question": "Câu 20: Nguyên nhân sinh ra sóng là do",
+        "answers": [
+          "A.  gió",
+          "B.  núi lửa",
+          "C.  sức hút của Mặt Trời, Mặt Trăng đối với Trái Đất",
+          "D.  từ trường Trái Đất"
+        ],
+        "correctAnswer": "0"
+      },
+      {
+        "question": "Câu 21: Sức hút của Mặt Trời và Mặt Trăng là nguyên nhân chủ yếu hình thành hiện tượng tự nhiên nào sau đây?",
+        "answers": [
+          "A.  Dòng biển",
+          "B.  Sóng thần",
+          "C.  Sóng ngầm",
+          "D.  Thủy triều"
+        ],
+        "correctAnswer": "3"
+      },
+      {
+        "question": "Câu 22: Các dòng biển nóng thường có hướng chảy",
+        "answers": [
+          "A.  từ vĩ độ cao xuống vĩ độ thấp",
+          "B.  từ vĩ độ thấp lên vĩ độ cao",
+          "C.  từ bán cầu Bắc lên bán cầu Nam",
+          "D.  từ bán cầu Nam xuống bán cầu Bắc"
+        ],
+        "correctAnswer": "1"
+      },
+      {
+        "question": "Câu 23: Các dòng biển lạnh thường có hướng chảy",
+        "answers": [
+          "A.  từ vĩ độ cao xuống vĩ độ thấp",
+          "B.  từ vĩ độ thấp lên vĩ độ cao",
+          "C.  từ bán cầu Bắc lên bán cầu Nam",
+          "D.  từ bán cầu Nam xuống bán cầu Bắc"
+        ],
+        "correctAnswer": "0"
+        },
+        {
+          "question": "Câu 24: Các thành phần chính của lớp đất là….",
+          "answers": [
+            "A.  không khí, nước, chất hữu cơ và vô cơ",
+            "B.  cơ giới, không khí, chất vô cơ và chất mùn",
+            "C.  chất hữu cơ, nước, không khí và sinh vật",
+            "D.  nước, không khí, chất hữu cơ và độ phì"
+          ],
+          "correctAnswer": "0"
+        },
+        {
+          "question": "Câu 25: Khí hậu ôn đới lục địa có nhóm đất chính nào?",
+          "answers": [
+            "A.  Đất pốtdôn",
+            "B.  Đất đen",
+            "C.  Đất đỏ vàng",
+            "D.  Đất nâu đỏ"
+          ],
+          "correctAnswer": "0"
+        },
+        {
+          "question": "Câu 26: Nhóm đất nào điển hình của vùng nhiệt đới?",
+          "answers": [
+            "A.  Đất pốtdôn",
+            "B.  Đất đỏ vàng nhiệt đới",
+            "C.  Đất đen",
+            "D.  Đất xám hoang mạc và bán hoang mạc"
+          ],
+          "correctAnswer": "1"
+        },
+        {
+          "question": "Câu 27: Thành phần hữu cơ của lớp đất có đặc điểm nào sau đây?",
+          "answers": [
+            "A.  Chiếm một tỉ lệ lớn trong lớp đất",
+            "B.  Thành phần quan trọng nhất của đất",
+            "C.  Tồn tại ở giữa các khe hở của đất",
+            "D.  Nằm ở tầng dưới cùng của lớp đất"
+            ],
+            "correctAnswer": "1"
+            },
+            {
+              "question": "Câu 28: Vị trí của đới nóng trên thế giới nằm",
+              "answers": [
+                "A.  từ chí tuyến Bắc đến chí tuyến Nam",
+                "B.  từ chí tuyến đến vòng cực",
+                "C.  từ vòng cực đến cực",
+                "D.  từ chí chuyến đến cực"
+              ],
+              "correctAnswer": "0"
+            },
+            {
+              "question": "Câu 29: Vị trí của đới lạnh trên thế giới",
+              "answers": [
+                "A.  từ chí tuyến Bắc đến chí tuyến Nam",
+                "B.  từ chí tuyến đến vòng cực",
+                "C.  từ vòng cực đến cực",
+                "D.  từ chí chuyến đến cực"
+              ],
+              "correctAnswer": "1"
+            },
+            {
+              "question": "Câu 30: Những loài thực vật tiêu biểu ở miền cực có khí hậu lạnh giá là",
+              "answers": [
+                "A.  cây lá kim",
+                "B.  cây lá cứng",
+                "C.  rêu, địa y",
+                "D.  sồi, dẻ, lim"
+              ],
+              "correctAnswer": "0"
+            }
+    ]

@@ -1,0 +1,42 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+card {
+  width: 80%;
+  height: 70%;
+  margin: 0 auto; /* Center the card horizontally */
+  display: flex; /* Allow vertical centering of content */
+  flex-direction: column; /* Stack content vertically */
+  justify-content: center; /* Center content vertically within the card */
+  align-items: center; /* Center content horizontally within the card */
+  background-color: #f5f5f5; /* Light gray background */
+  border: 1px solid #ccc; /* Light gray border */
+  border-radius: 5px; /* Rounded corners */
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.answers {
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* Spacing between answer buttons */
+}
+
+.answer {
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#score {
+  margin-top: 20px;
+}
