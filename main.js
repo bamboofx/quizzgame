@@ -69,16 +69,35 @@ function loadQuestion() {
 }
 
 function checkAnswer(selectedAnswerIndex) {
+    // Không cho phép chọn lại câu trả lời
+    answerElements.forEach((answerElement) => {
+        answerElement.onclick = null;
+    });
+    
     let correctAnswer = Number(questionsData[currentQuestionIndex].correctAnswer);
     console.log(correctAnswer, selectedAnswerIndex);
     if (selectedAnswerIndex === correctAnswer) {
         score++;
         scoreElement.textContent = `Điểm: ${score}`;
     }
+    else{
+        answerElements[selectedAnswerIndex].style.backgroundColor = 'red';
+    }
+
+    // thay đổi màu sắc của câu trả lời đúng
+    answerElements[correctAnswer].style.backgroundColor = 'green';
+    
 
     currentQuestionIndex++;
     if (currentQuestionIndex < questionsData.length) {
-        loadQuestion();
+        setTimeout(() => {
+            
+
+            loadQuestion();
+            answerElements.forEach((answerElement) => {
+                answerElement.style.backgroundColor = '';
+            });
+        }, 1500);
     } else {
         scoreElement.textContent = `Điểm: ${score}`;
         alert('Bạn đã hoàn thành bài thi! Điểm của bạn là: ' + score);
